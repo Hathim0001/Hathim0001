@@ -1,7 +1,3 @@
-Absolutely. You want the **actual README.md**, not a prompt.
-
-Below is a creative GitHub profile README structured in the style of the creative-profile examples, while using the project/tech information you provided. You can copy-paste the whole thing into your `README.md`.
-
 <!-- ========================= HEADER ========================= -->
 
 <div align="center">
@@ -20,7 +16,14 @@ Below is a creative GitHub profile README structured in the style of the creativ
   <a href="https://github.com/Hathim0001">
     <img src="https://img.shields.io/badge/GitHub-Hathim0001-181717?style=for-the-badge&logo=github" />
   </a>
+  &nbsp;
+  <a href="https://portfolio-website-bay-theta-94.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/🌐_Portfolio-Live-6366f1?style=for-the-badge" />
+  </a>
 </p>
+
+> ### 🌐 [**→ View My Portfolio**](https://portfolio-website-bay-theta-94.vercel.app)
+> *Built with React · Vite · Tailwind CSS · Deployed on Vercel*
 
 </div>
 
